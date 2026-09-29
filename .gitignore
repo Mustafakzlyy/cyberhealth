@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.manifest
+
+# Caches and local runtime data
+.cache/
+.pytest_cache/
+*.log
+*.sqlite3
+
+# User local settings & config
+config.json
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment / Virtualenv
+venv/
+env/
+ENV/
+.venv/
+
+# OS generated files
+Thumbs.db
